@@ -1,0 +1,1 @@
+console.log("Estructura de una pagina web hecha con Python");
